@@ -4,12 +4,11 @@
 body{
     background-color: blanchedalmond;
 }
-.recipe-list{
+header{
     text-align: center;
 }
 .page-header-text{
     font-family: "Brush Script MT", cursive, serif;
-    text-align: center;
 }
 ul{
     list-style-type: none;
